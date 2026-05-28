@@ -1,8 +1,9 @@
 {
   "name": "Eye Strain Checker",
   "short_name": "eye-strain-c",
-  "start_url": "/",
+  "start_url": "/eye-strain-checker/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/eye-strain-checker/"
 }
